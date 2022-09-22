@@ -1,0 +1,15 @@
+.comment-section{
+    background-color: darkslategray;
+    border-radius: 7px;
+    padding: 10px;
+    
+}
+.comment-section span{
+ color: fuchsia;
+}
+.body{
+    text-align: justify;
+}
+.comment-section:hover{
+    box-shadow: 10px 10px 10px gray;
+}
